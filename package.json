@@ -1,0 +1,12 @@
+{
+  "name": "the-nail-1995-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page chuyên nghiệp cho The Nail 1995 Private Studio",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080"
+  },
+  "keywords": ["nail", "landing-page", "the-nail-1995"],
+  "author": "The Nail 1995",
+  "license": "ISC"
+}
